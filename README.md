@@ -1,4 +1,4 @@
-# Claude Skill: WordPress Plugin Development
+# WordPress Plugin Development For Claude
 
 [![Upstream PR](https://img.shields.io/badge/upstream%20PR-anthropics%2Fskills%231198-blue)](https://github.com/anthropics/skills/pull/1198)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-green.svg)](LICENSE.txt)
